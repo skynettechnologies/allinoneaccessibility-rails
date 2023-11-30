@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Steven Wenzel"]
   s.email       = ["developer3@skynettechnologies.com"]
   s.homepage    = "http://www.skynettechnologies.com/all-in-one-accessibility"
-  s.summary     = "Easy, object oriented client side graphs for designers and developers"
+  s.summary     = "Ruby client for the All in One Accessibility widget."
   s.description = "All in One Accessibility widget improves Ruby website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA
                      EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA Standards."
 

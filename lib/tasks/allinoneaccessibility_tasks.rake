@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :chartjs do
+# task :allinoneaccessibility do
 #   # Task goes here
 # end

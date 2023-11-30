@@ -1,12 +1,10 @@
 # All in One Accessibility
 
-Simple HTML5 Charts using the canvas element chartjs.org
+This gem packages the All in One Accessibility widget for the Rails 4+ 
 
-This gem packages the chart.js assets (JavaScripts) for the Rails 4+ 
-
-
-[![Gem Version](https://badge.fury.io/rb/chartjs.png)](http://badge.fury.io/rb/chartjs)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicmaster/chartjs-rails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+- Admin All in One Accessibility to create scripts and change the color,position,icon-type,icon-size content
+- All in One Accessibility to enable or disable widget via opt-in
+- admin setting opt-in: yes/no means, if opt-in toggle is available for users on website accessibility widget
 
 ## Usage
 
@@ -32,54 +30,83 @@ To require all ChartJs modules, add the following to your application.js:
 
 #Documentation
 
-http://www.chartjs.org/docs/
+https://www.skynettechnologies.com/all-in-one-accessibility
 
-## Contributing
+## Features
 
 In the spirit of free software, everyone is encouraged to help improve this project.
 
-### Here are some ways you can contribute:
+### All in One Accessibility Free Version Features:
 
-* by using alpha, beta, and prerelease versions
-* by reporting bugs
-* by suggesting new features
-* by translating to a new language
-* by writing or editing documentation
-* by writing specifications
-* by writing code (no patch is too small: fix typos, add comments, clean up inconsistent whitespace)
-* by refactoring code
-* by closing issues
-* by reviewing patches
+#### Skip Links
+- Skip to Menu
+- Skip to Footer
+- Skip to Navigation
+- Open Accessibility Toolbar
 
-financially
+#### Content Adjustments
+- Content Scaling
+- Readable Fonts
+- Highlight Title
+- Highlight Links
+- Text Magnifier
+- Adjust Font Sizing
+- Adjust Line Height
+- Adjust Letter Spacing
+- Align Center
+- Align Left
+- Align Right
 
-Submitting an Issue
+#### Color and Contrast Adjustments
+- High Contrast
 
-We use the GitHub issue tracker to track bugs and features. Before submitting a bug report or feature request, check to make sure it hasn't already been submitted. When submitting a bug report, please include a Gist that includes a stack trace and any details that may be necessary to reproduce the bug, including your gem version, Ruby version, and operating system. Ideally, a bug report should include a pull request with failing specs.
+#### Orientation Adjustments
+- Hide Images (Text Only)
+  Miscellaneous
+- Accessibility Statement
+- Dynamic Application Color
+- Choose Application Trigger Button Position
+- Choose Application Position
+- Multi Language
 
-### Submitting a Pull Request
-
-1.- Fork the repository.
-
-2.- Create a topic branch.
-
-3.- Add specs for your unimplemented feature or bug fix.
-
-4.- Run bundle exec rake test. If your specs pass, return to step 3.
-
-5.- Implement your feature or bug fix.
-
-6.- Run bundle exec rake test. If your specs fail, return to step 5.
-
-7.- Run open coverage/index.html. If your changes are not completely covered by your tests, return to step 3.
-
-8.- Add, commit, and push your changes.
-
-9.- Submit a pull request.
-
-
-## Authors of the library
-
-[ChartJS](http://www.chartjs.org/)
-
-[Github: nnick](https://github.com/nnnick/Chart.js)
+#### Supports 40 languages
+- English
+- Spanish
+- German
+- Arabic
+- Slovak
+- Portuguese
+- French
+- Italian
+- Polish
+- Turkish
+- Japanese
+- Finnish
+- Russian
+- Hungarian
+- Latin
+- Greek
+- Hebrew
+- Bulgarian
+- Catalan
+- Chinese
+- Czech
+- Danish
+- Dutch
+- Hindi
+- Indonesian
+- Korean
+- Lithuanian
+- Malay
+- Norwegian
+- Romanian
+- Slovenian
+- Swedish
+- Thai
+- Ukrainian
+- Vietnamese
+- Bengali
+- Sinhala
+- Amharic
+- Hmong
+- Myanmar (Burmese)

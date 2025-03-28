@@ -130,11 +130,12 @@ For more details, Please visit **[Partnership Opportunities Page](https://www.sk
 
 ## Video
 
-[![All in One Accessibility](https://img.youtube.com/vi/I-DjgZyleeI/0.jpg)](https://www.youtube.com/watch?v=I-DjgZyleeI)
+[![All in One Accessibility](https://img.youtube.com/vi/X70XtvGyvSs/0.jpg)](https://www.youtube.com/watch?v=X70XtvGyvSs)
 
 ## Credits
 
 This addon is developed and maintained by **[Skynet Technologies USA LLC](https://www.skynettechnologies.com)**
 
 ## Current Maintainers
+
 - **[Skynet Technologies USA LLC](https://github.com/skynettechnologies)**
